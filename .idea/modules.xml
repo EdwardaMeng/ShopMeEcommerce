@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ShopMeProject/ShopMeWebParent/ShopMeBackEnd/ShopMeBackEnd.iml" filepath="$PROJECT_DIR$/ShopMeProject/ShopMeWebParent/ShopMeBackEnd/ShopMeBackEnd.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ShopMeCommon/ShopMeCommon.iml" filepath="$PROJECT_DIR$/ShopMeCommon/ShopMeCommon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/ShopMeEcommerce.iml" filepath="$PROJECT_DIR$/.idea/ShopMeEcommerce.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ShopMeProject/ShopMeWebParent/ShopMeFrontEnd/ShopMeFrontEnd.iml" filepath="$PROJECT_DIR$/ShopMeProject/ShopMeWebParent/ShopMeFrontEnd/ShopMeFrontEnd.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ShopMeProject/ShopMeProject.iml" filepath="$PROJECT_DIR$/ShopMeProject/ShopMeProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ShopMeWebParent/ShopMeWebParent.iml" filepath="$PROJECT_DIR$/ShopMeWebParent/ShopMeWebParent.iml" />
+    </modules>
+  </component>
+</project>
